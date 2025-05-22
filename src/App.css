@@ -242,6 +242,6 @@ footer a:hover {
   }
   
   .timeline-item {
-    padding-left: 60px;
+    padding: 0 30px;
   }
 }
